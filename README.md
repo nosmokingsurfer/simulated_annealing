@@ -9,3 +9,8 @@ Two examples of naive simulated annealing applications:
 # How to start
 
 All examples whould work straight out of the box. Parameters like max/min temperature or anneling profile are straight forward how to change.
+
+
+# Slides
+
+https://docs.google.com/presentation/d/10jxhRnUjpNTrPyEYfz3NxjwS2jb_E1TXcFkrpCat3c0/edit?usp=sharing
