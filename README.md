@@ -1,8 +1,10 @@
 # Optimization with simulated annealing
 
 Two examples of naive simulated annealing applications:
-`example_1.py - traveling salesman task`
-`example_2.py - generating valid sudoku grid from a given random state`
+
+`python example_1.py` - traveling salesman task
+
+`python example_2.py` - generating valid sudoku grid from a given random state
 
 # How to start
 
